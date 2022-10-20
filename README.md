@@ -1,7 +1,7 @@
 # Dubai
 BeerJS: Dubai, UAE
 
-![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerjs_dubai)
+[![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerjs_dubai)
 
 Hello, nice to meet you in this hot city.
 
