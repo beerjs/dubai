@@ -1,4 +1,4 @@
-# dubai
+# Dubai
 BeerJS: Dubai, UAE
 
 Hello, nice to meet you in this hot city.
