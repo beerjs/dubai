@@ -1,5 +1,5 @@
 # Dubai
-BeerJS: Dubai, UAE
+Dubai, UAE
 
 [![Telegram](https://img.shields.io/badge/telegram-join%20chat-blue.svg?style=flat)](https://t.me/beerjs_dubai)
 
